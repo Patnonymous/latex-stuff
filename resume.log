@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.7)  28 JUL 2022 09:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.7)  28 JUL 2022 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,19 +375,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: 8178769A591DAE54593BE5DC5893BD68;390
-(rerunfilecheck)             After:  CB6AE224A5E290A313C6DE8F8D3195E1;390.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: CB6AE224A5E290A313C6DE8F8D3195E1;390.
  ) 
 Here is how much of TeX's memory you used:
  10304 strings out of 478614
  165924 string characters out of 2843123
- 499179 words of memory out of 3000000
+ 502179 words of memory out of 3000000
  28332 multiletter control sequences out of 15000+600000
  474851 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -400,7 +394,7 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/patri/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/patri/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/patri/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 109034 bytes).
+Output written on resume.pdf (1 page, 109869 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
